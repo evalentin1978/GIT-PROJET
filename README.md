@@ -67,6 +67,8 @@ def parcoursGrille(grille):
         print(ligne)
     print("En {} seconde" .format(round(tempsFin-temsDepart,5)))
 
+    README.md
+
 # Define the Soduku puzzle as a 3D list
 Soduku = [
     [5, 3, 0, 0, 7, 0, 0, 0, 0],
